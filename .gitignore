@@ -2,3 +2,6 @@ LocomotionDemoReel/.vs/
 LocomotionDemoReel/Binaries/
 LocomotionDemoReel/Intermediate/
 LocomotionDemoReel/Saved/Config/CrashReportClient/
+*.log
+LocomotionDemoReel/Saved/Autosaves/
+LocomotionDemoReel/Saved/AutoScreenshot.png
